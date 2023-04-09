@@ -1,0 +1,15 @@
+/Users/togrultalibov/Desktop/Practise1/Practise1/bin/Debug/net7.0/Practise1
+/Users/togrultalibov/Desktop/Practise1/Practise1/bin/Debug/net7.0/Practise1.deps.json
+/Users/togrultalibov/Desktop/Practise1/Practise1/bin/Debug/net7.0/Practise1.runtimeconfig.json
+/Users/togrultalibov/Desktop/Practise1/Practise1/bin/Debug/net7.0/Practise1.dll
+/Users/togrultalibov/Desktop/Practise1/Practise1/bin/Debug/net7.0/Practise1.pdb
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.dll
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/refint/Practise1.dll
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.pdb
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/Practise1.genruntimeconfig.cache
+/Users/togrultalibov/Desktop/Practise1/Practise1/obj/Debug/net7.0/ref/Practise1.dll
